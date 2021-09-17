@@ -1,0 +1,32 @@
+*{
+	background-color: whitesmoke;
+}
+
+.enso img{
+	height: 90%;
+	width: 90%;
+	object-fit: cover;
+	margin-top: 30px;
+}
+
+.link-div{
+	border-bottom: 1px solid black;
+	padding: 10px;
+	margin: 10px;
+}
+
+.link-div a{
+	color: black;
+	font-size: 25px;
+}
+
+.link-div img{
+	height: 30px;
+	width: 30px;
+	vertical-align: middle;
+	margin: 1%;
+}
+/*
+.link-div span{
+	vertical-align: middle;
+}*/
